@@ -6,8 +6,9 @@
         xmlns:local="clr-namespace:GitDemo"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
+    <StackPanel>
         <Button Content="Hello, crazy"/>
+        <Button Content="Hello, world"/>
         
-    </Grid>
+    </StackPanel>
 </Window>
