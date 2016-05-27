@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <StackPanel>
-        <Button Content="Hello, crazy"/>
+        <Button Content="Hello, crazy!"/>
         <Button Content="Hello, world"/>
         
     </StackPanel>
