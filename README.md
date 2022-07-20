@@ -66,6 +66,13 @@ npm i
 node app
 ```
 
+```
+{
+    property : "value",
+    foo : 1
+}
+```
+
 For production environments...
 
 ```sh
